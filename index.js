@@ -12,6 +12,7 @@ const GOOGLE_CREDS     = JSON.parse(process.env.GOOGLE_CREDENTIALS);
 // Add employees here as you hire them
 const EMPLOYEE_MAP = {
   "st_ronan": "Ronan",
+  "samm3110": "Employee 2",
 };
 
 // ─── GOOGLE SHEETS AUTH ────────────────────────────────────────
