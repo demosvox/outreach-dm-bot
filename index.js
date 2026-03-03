@@ -14,6 +14,8 @@ const EMPLOYEE_MAP = {
   "st_ronan": "Ronan",
   "yooloo12": "Bipul",
   "upsahnapoudel.": "Upsahna",
+  "samm3110": "Sambid",
+  
 };
 
 // ─── GOOGLE SHEETS AUTH ────────────────────────────────────────
