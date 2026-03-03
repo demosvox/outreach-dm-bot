@@ -11,7 +11,7 @@ const GOOGLE_CREDS     = JSON.parse(process.env.GOOGLE_CREDENTIALS);
 // Map Discord username (lowercase) → Sheet tab name
 // Add employees here as you hire them
 const EMPLOYEE_MAP = {
-  "st_ronan": "Employee 1",
+  "st_ronan": "Ronan",
 };
 
 // ─── GOOGLE SHEETS AUTH ────────────────────────────────────────
